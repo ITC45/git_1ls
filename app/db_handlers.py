@@ -13,5 +13,3 @@ def search_user(users_list: list[list[str]], input_login: str) -> list:
             found_user_db = user
             break
     return found_user_db
-
-# end file
